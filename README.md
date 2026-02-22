@@ -5,8 +5,7 @@ I do Python and Javascript
 -------------------------------
 
 *   🌍  I'm based in Earth
-*   🚀  I'm currently working on [OutN](http://https://pranjal-sb.github.io/OutN/)
-*   🧠  I'm learning next.js
+*   🧠  I'm learning java
 *   🤝  I'm open to collaborating on anything, just contact me
 
 ### Skills 
