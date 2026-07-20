@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 169 60" role="img" aria-label="Spotify">
+<title>Spotify</title>
+<rect x="1.5" y="1.5" width="166" height="57" rx="30.0" fill="#1c1917" stroke="#2a2725" stroke-width="1.5"/>
+<circle cx="28" cy="30.0" r="5" fill="#8b8b8b"/>
+<text x="48" y="30.0" dominant-baseline="central" font-family="'JetBrains Mono','Courier New',monospace" font-weight="600" font-size="22" fill="#8b8b8b">Spotify</text>
+</svg>

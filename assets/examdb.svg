@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" role="img" aria-label="examdb.org - Indian entrance-exam dates, scraped and confidence-scored for freshness">
+<title>examdb.org - Indian entrance-exam dates, scraped and confidence-scored</title>
+<rect width="1200" height="240" rx="16" fill="#211e1c"/>
+<rect x="1" y="1" width="1198" height="238" rx="15" fill="none" stroke="#2a2725" stroke-width="2"/>
+<rect x="0" y="0" width="6" height="240" rx="3" fill="#0891b2"/>
+<text x="52" y="70" font-family="'JetBrains Mono','Courier New',monospace" font-size="18" fill="#8b8b8b" letter-spacing="4">CURRENTLY BUILDING</text>
+<text x="50" y="128" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="52" fill="#ffffff">examdb<tspan fill="#0891b2">.org</tspan></text>
+<text x="52" y="172" font-family="'JetBrains Mono','Courier New',monospace" font-size="22" fill="#c7d5d5">Indian entrance-exam dates &#8212; scraped, then confidence-scored for freshness.</text>
+<text x="52" y="208" font-family="'JetBrains Mono','Courier New',monospace" font-size="17" fill="#8b8b8b" letter-spacing="1">FastAPI &#183; Postgres &#183; Redis &#183; Docker</text>
+<text x="1148" y="128" text-anchor="end" font-family="'JetBrains Mono','Courier New',monospace" font-size="20" fill="#0891b2">visit &#8594;</text>
+</svg>

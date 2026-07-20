@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158 76" role="img" aria-label="Mail">
+<title>Mail</title>
+<rect x="1.5" y="1.5" width="155" height="73" rx="38.0" fill="#211e1c" stroke="#0891b2" stroke-width="1.5"/>
+<circle cx="34" cy="38.0" r="7" fill="#0891b2"/>
+<text x="60" y="38.0" dominant-baseline="central" font-family="'JetBrains Mono','Courier New',monospace" font-weight="600" font-size="26" fill="#c7d5d5">Mail</text>
+</svg>

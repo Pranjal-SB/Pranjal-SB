@@ -4,11 +4,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=54&pause=99999&color=0891B2&center=true&vCenter=true&width=560&height=90&repeat=false&lines=PRANJAL" alt="pranjal" />
+<img src="assets/hero.svg" alt="Pranjal — backend-leaning full-stack builder" width="100%" />
 
-<br>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=17&pause=900&color=C7D5D5&center=true&vCenter=true&width=680&height=40&lines=BACKEND-LEANING+FULL-STACK+BUILDER;I+SHIP+APIS%2C+SCRAPERS+%26+WEB+APPS;TYPESCRIPT+%2B+PYTHON+%C2%B7+LEARNING+JAVA;BUILDING+EXAMDB.ORG" alt="typing" />
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          PROOF · EXAMDB                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<a href="https://examdb.org"><img src="assets/examdb.svg" alt="examdb.org — scraper-fed database of Indian entrance-exam dates with confidence-scored freshness" width="100%" /></a>
 
 </div>
 
@@ -16,12 +22,11 @@
 <!-- ║                              ABOUT                                    ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-### `~/whoami`
+<img src="assets/h_whoami.svg" alt="whoami" width="100%" />
 
 ```yaml
 name:       Pranjal
 role:       full-stack developer · backend-leaning
-based_in:   Earth 🌍
 focus:      examdb.org · APIs & scrapers · web apps · backend infra
 learning:   Java ☕
 open_to:    collaboration — just reach out
@@ -32,25 +37,17 @@ runtime_of_choice: Bun ⚡
 <!-- ║                              STACK                                    ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-### 🧰 Tech I actually use
+<img src="assets/h_stack.svg" alt="stack" width="100%" />
 
 <div align="center">
 
-**Languages & Runtime**
+`primary`
 
-<img src="https://skillicons.dev/icons?i=ts,py,js,java,bash,bun,nodejs&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=ts,py,bun,fastapi,postgres,redis,docker&theme=dark" alt="primary stack" />
 
-**Backend & Data**
+`secondary`
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,mysql,docker&theme=dark" alt="backend" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="frontend" />
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,vitest&theme=dark" alt="tooling" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vite,tailwind,mysql,git,linux,vitest&theme=dark" alt="secondary stack" />
 
 </div>
 
@@ -58,7 +55,7 @@ runtime_of_choice: Bun ⚡
 <!-- ║                        CONTRIBUTION SNAKE                            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-### 🐍 Contribution graph
+<img src="assets/h_activity.svg" alt="activity" width="100%" />
 
 <div align="center">
 
@@ -68,20 +65,27 @@ runtime_of_choice: Bun ⚡
 <img alt="contribution snake" src="https://raw.githubusercontent.com/Pranjal-SB/Pranjal-SB/output/snake-dark.svg" />
 </picture>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal-SB&stroke=c7d5d5&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=c7d5d5&dates=8b8b8b&hide_border=true" alt="streak" />
-
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                            SOCIALS                                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-### 🔗 Reach me
+<img src="assets/h_connect.svg" alt="connect" width="100%" />
 
 <div align="center">
 
-<a href="https://github.com/Pranjal-SB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="https://psbhatnagar.in"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
-<a href="https://examdb.org"><img src="https://img.shields.io/badge/examdb.org-1c1917?style=for-the-badge&logo=vercel&logoColor=0891b2" alt="examdb" /></a>
+<a href="https://psbhatnagar.in"><img src="assets/btn_portfolio.svg" height="46" alt="Portfolio" /></a>
+<a href="https://psb.bearblog.dev"><img src="assets/btn_blog.svg" height="46" alt="Blog" /></a>
+<a href="https://examdb.org"><img src="assets/btn_examdborg.svg" height="46" alt="examdb.org" /></a>
+<a href="https://www.linkedin.com/in/pranjalsb/"><img src="assets/btn_linkedin.svg" height="46" alt="LinkedIn" /></a>
+<a href="https://github.com/Pranjal-SB"><img src="assets/btn_github.svg" height="46" alt="GitHub" /></a>
+<a href="mailto:psbhatnagar.in@gmail.com"><img src="assets/btn_mail.svg" height="46" alt="Mail" /></a>
+
+<br><br>
+
+<a href="https://www.instagram.com/psbhatnagarin/"><img src="assets/btn_instagram.svg" height="34" alt="Instagram" /></a>
+<a href="https://www.chess.com/member/psbhatnagar"><img src="assets/btn_chesscom.svg" height="34" alt="Chess.com" /></a>
+<a href="https://open.spotify.com/user/317miylx2vtzzljp526chz6nzoc4"><img src="assets/btn_spotify.svg" height="34" alt="Spotify" /></a>
 
 </div>
